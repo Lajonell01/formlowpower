@@ -1,0 +1,1185 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>POTENCIA 793D</title>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 50%;
+  padding: 0 0px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 0px;
+  }
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0);
+  padding: 0px;
+  text-align: center;
+  background-color: #FFFFFF;
+}
+</style>
+<style>
+/* PROPIEDADES DE IMAGENES RESPOSIVAS */
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+</style>
+<style>
+/* PROPIEDADES DE LAS FORMAS */
+<style>
+* {
+  box-sizing: border-box;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #00BFFF;
+  border-radius: 4px;
+  resize: vertical;
+  
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+</style>
+<style>
+/* PROPIEDADES DE LA PAGINA PRINCIPAL */
+body {
+  background: #FFFFFF;
+}
+
+.content {
+  max-width: 1000px;
+  margin: auto;
+  background: white;
+  padding: 1px;
+}
+
+</style>
+
+</head>
+<div class="content">
+<body>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="180"><font face="Arial"><b> <img alt="Logo de mi empresa" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" style="float:right; height:83px; width:200px" /></td>
+    <td><p align="left"><strong><font face="Arial">Formato Guía Para Evaluación de Baja Potencia 793D</font></strong></p></td>
+  </tr>
+</table>
+<p><font size="1">Fecha Vigencia: Abril 2023</font></p>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%; box-sizing:border-box">
+        <tr style="box-sizing: border-box">
+          <td style="text-align: left; padding: 2px; box-sizing:border-box; font-size:12pt" width="95">
+			Equipo: </td>
+          <td style="text-align: left; padding: 2px; box-sizing:border-box; font-size:12pt">
+			<input type="text" name="T1" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+        </tr>
+        <tr style="box-sizing: border-box">
+          <td style="text-align: left; padding: 2px; box-sizing:border-box; font-size:12pt" width="95">
+			Serie:</td>
+          <td style="text-align: left; padding: 2px; box-sizing:border-box; font-size:12pt">
+			<input type="text" name="T11" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+        </tr>
+        <tr style="box-sizing: border-box">
+          <td style="text-align: left; padding: 2px; box-sizing:border-box; font-size:12pt" width="95">
+			SMU:</td>
+          <td style="text-align: left; padding: 2px; box-sizing:border-box; font-size:12pt">
+			<input type="text" name="T12" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+        </tr>
+        <tr style="box-sizing: border-box">
+          <td style="text-align: left; padding: 2px; box-sizing:border-box; font-size:12pt" width="95">
+			Fecha:</td>
+          <td style="text-align: left; padding: 2px; box-sizing:border-box; font-size:12pt">
+      <table width="100%" border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%; box-sizing:border-box; padding-top:0; padding-bottom:0" bordercolor="#008080">
+        <tr style="box-sizing: border-box">
+          <td style="text-align: left; box-sizing:border-box; padding-left:8px; padding-right:8px; padding-top:2px; padding-bottom:2px">
+			<font face="Arial"><script> 
+var mydate=new Date(); 
+var year=mydate.getYear(); 
+if (year < 1000) 
+year+=1900; 
+var day=mydate.getDay(); 
+var month=mydate.getMonth()+1; 
+if (month<10) 
+month="0"+month; 
+var daym=mydate.getDate(); 
+if (daym<10) 
+daym="0"+daym; 
+document.write("<small><font color='000000' face='Arial'><b>"+daym+"/"+month+"/"+year+"</b></font></small>") 
+</script></font></td>
+        </tr>
+        </table>
+			</td>
+        </tr>
+      </table>
+</div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%; box-sizing:border-box">
+        <tr style="box-sizing: border-box">
+          <td style="text-align: left; padding: 2px; box-sizing:border-box" width="95">
+			&nbsp;&nbsp;
+			Tec 1: </td>
+          <td style="text-align: left; padding: 2px; box-sizing:border-box">
+		  <input type="text" name="T13" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+        </tr>
+        <tr style="box-sizing: border-box">
+          <td style="text-align: left; padding: 2px; box-sizing:border-box" width="95">
+			&nbsp;&nbsp;
+			Tec 2: </td>
+          <td style="text-align: left; padding: 2px; box-sizing:border-box">
+		  <input type="text" name="T14" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+        </tr>
+        <tr style="box-sizing: border-box">
+          <td style="text-align: left; padding: 2px; box-sizing:border-box" width="95">
+			&nbsp;&nbsp;
+			Grupo:</td>
+          <td style="text-align: left; padding: 2px; box-sizing:border-box">
+		  <select size="0" name="D5" style="border:0.2px solid #CCFFFF; font-family: Arial; color: #000000; font-weight:bold; font-size: 12px; padding: 7px">
+	<option>SELECIONE SU GRUPO</option>
+	<option>GUERRERO</option>
+	<option>JAGUARES</option>
+	<option>VALIENTES</option></td>
+        </tr>
+        <tr style="box-sizing: border-box">
+          <td style="text-align: left; padding: 2px; box-sizing:border-box" width="95">
+			&nbsp;&nbsp;
+			Sup:</td>
+          <td style="text-align: left; padding: 2px; box-sizing:border-box">
+		  <input type="text" name="T16" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+        </tr>
+      </table>
+</div>
+  </div>
+</div>
+<table width="100%" border="1">
+  <tbody>
+    <tr>
+      <td bgcolor="#FFFF00">
+		<p align="center"><b>Localización y solución de problemas por baja potencia del motor del Camion 793D</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="#F1948A">
+		<p align="center"><b>1. Recomendaciones de seguridad</b></td>
+    </tr>
+    <tr>
+      <td><b>1.1</b> Lea cuidadosamente todos los ítem de seguridad realice un análisis de riesgos y tome los controles necesarios para evitar cualquier accidente<br>
+        revise en el manual los puntos de seguridad antes de realizar la tarea.<br>
+        <b>1.2</b> Recuerde que algunas pruebas deben ser ejecutas con la maquina encendida, tome las precauciones necesarias para evitar un accidente.<br>
+      <b>1.3</b> Asegúrese que solo el personal autorizado este en la maquina comuníquese con los 
+		técnicos que estén realizando tareas en la maquina.</td>
+    </tr>
+    <tr>
+      <td bgcolor="#00FF00"><p align="center"><b>2. inspección Inicial</b></p></td>
+    </tr>
+    <tr>
+      <td>2.1 Realice una inspección general del equipo verifique todos los niveles de la maquina.<br>
+Nota: si el equipo esta en el taller realice la respectiva revisión de entrada<br>
+		<b>Comentarios: Antes de realizar cualquier prueba verifique que el modo frío no este activo, ya que este estado que puede generar falso resultados en el<br>
+desempeño del motor y en la prueba de corte de inyectores. Este estado se puede presentar cuando un sensor de temperatura esta generando una<br>
+lectura errónea</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="#00FF00"><p align="center"><b>3. Revise toda la información del vims relacionada con el problema de la baja potencia</b></td>
+    </tr>
+    <tr>
+      <td>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td width="213">
+		<table border="0" width="210" cellspacing="0" cellpadding="0">
+			<tr>
+				<td><table width="100%" border="1">
+        <tbody>
+          <tr>
+            <td bgcolor="#FFEAF4"><font size="2" face="Tahoma">Verifique cualquier alarma activa o Almacenada confirme cuantas horas tiene de haber ocurrido, comparela con el horometro del Vims. Recuerde que si encuentra alguna alarma activa o almacenada recientemente&nbsp; esta se debe corregir antes de continuar al siguiente paso
+			</font> </td>
+          </tr>
+        </tbody>
+      </table>
+      			</td>
+			</tr>
+		</table>
+		</td>
+      <td width="44"><table width="100%" border="0" cellspacing="3">
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>
+			<table border="0" width="42" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><b><font face="Tahoma">---&gt;</font></b></td>
+				</tr>
+			</table>
+			</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+      </table></td>
+      <td width="254"><table width="67%" border="1">
+        <tbody>
+          <tr>
+            <td width="175" bgcolor="#FFFF00">
+			<table border="0" width="175" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="2" face="Tahoma">Eventos de maquina</font></td>
+				</tr>
+			</table>
+			</td>
+            <td width="16" bgcolor="#FFFF00"><font size="2" face="Tahoma">OK</font></td>
+            <td bgcolor="#FFFF00"><font size="2" face="Tahoma">NO.OK</font></td>
+          </tr>
+          <tr>
+            <td width="175" bgcolor="#CCFFFF"><font size="2" face="Tahoma">Alta temperatura de escape</font></td>
+            <td width="16" bgcolor="#CCFFFF" align="center">
+			<input type="checkbox" name="C2" value="ON"></td>
+            <td bgcolor="#CCFFFF" align="center">
+			<input type="checkbox" name="C3" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175" bgcolor="#CCFFFF"><font size="2" face="Tahoma">Derrateo del motor</font></td>
+            <td width="16" bgcolor="#CCFFFF" align="center">
+			<input type="checkbox" name="C4" value="ON"></td>
+            <td bgcolor="#CCFFFF" align="center">
+			<input type="checkbox" name="C5" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175" bgcolor="#FFDBCA"><font size="2" face="Tahoma">Alta temperatura refrigerante</font></td>
+            <td width="16" bgcolor="#FFDBCA" align="center">
+			<input type="checkbox" name="C6" value="ON"></td>
+            <td bgcolor="#FFDBCA" align="center">
+			<input type="checkbox" name="C7" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175" bgcolor="#FFDBCA"><font size="2" face="Tahoma">Alta temperatura Aftercooler</font></td>
+            <td width="16" bgcolor="#FFDBCA" align="center">
+			<input type="checkbox" name="C8" value="ON"></td>
+            <td bgcolor="#FFDBCA" align="center">
+			<input type="checkbox" name="C9" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175" bgcolor="#EEDDFF"><font size="2" face="Tahoma">Filtro de aire taponado</font></td>
+            <td width="16" bgcolor="#EEDDFF" align="center">
+			<input type="checkbox" name="C10" value="ON"></td>
+            <td bgcolor="#EEDDFF" align="center">
+			<input type="checkbox" name="C11" value="ON"></td>
+          </tr>
+        </tbody>
+      </table></td>
+      <td><table width="100%" border="0" cellspacing="3">
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>
+			<table border="0" width="47" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><b><font face="Tahoma">---&gt;</font></b></td>
+				</tr>
+			</table>
+			</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>
+			<table border="0" width="47" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><b><font face="Tahoma">---&gt;</font></b></td>
+				</tr>
+			</table>
+			</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>
+			<table border="0" width="44" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><b><font face="Tahoma">---&gt;</font></b></td>
+				</tr>
+			</table>
+			</td>
+          </tr>
+      </table></td>
+      <td width="821">&nbsp;<table width="100%" border="1">
+          <tr>
+            <td bgcolor="#CCFFFF">
+			<table border="0" width="187" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="2" face="Tahoma">Sensores de escape</font></td>
+				</tr>
+			</table>
+			</td>
+          </tr>
+          <tr>
+            <td bgcolor="#CCFFFF"><font size="2" face="Tahoma">Presión de 
+			combustible</font></td>
+          </tr>
+          <tr>
+            <td bgcolor="#CCFFFF"><font size="2" face="Tahoma">Corte de 
+			inyectores</font></td>
+          </tr>
+          <tr>
+            <td bgcolor="#FFDBCA"><font size="2" face="Tahoma">Revise sensores 
+			de temperatura</font></td>
+          </tr>
+          <tr>
+            <td bgcolor="#FFDBCA"><font size="2" face="Tahoma">Revise estado de 
+			los filtros</font></td>
+          </tr>
+          <tr>
+            <td bgcolor="#EEDDFF"><font size="2" face="Tahoma">Revise sensores 
+			de entrada</font></td>
+          </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td width="213">&nbsp;</td>
+      <td width="44">&nbsp;</td>
+      <td width="254">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td width="821">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+		</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td width="213">
+		<table border="0" width="210" cellspacing="0" cellpadding="0">
+			<tr>
+				<td><table width="100%" border="1">
+        <tbody>
+          <tr>
+            <td bgcolor="#FFEAF4"><font size="2" face="Tahoma">Verifique cualquier alarma activa o Almacenada confirme cuantas horas tiene de haber ocurrido, 
+			compárela con el horometro del Vims. Recuerde que si encuentra alguna alarma activa o almacenada recientemente&nbsp; este se debe corregir antes de continuar al			 al siguiente paso
+			</font> </td>
+          </tr>
+        </tbody>
+      </table>
+      			</td>
+			</tr>
+		</table>
+		</td>
+      <td width="44"><table width="100%" border="0" cellspacing="3">
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>
+			<table border="0" width="42" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><b><font face="Tahoma">---&gt;</font></b></td>
+				</tr>
+			</table>
+			</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+      </table></td>
+      <td width="254"><table width="67%" border="1" cellpadding="5">
+        <tbody>
+          <tr>
+            <td width="175" bgcolor="#FFFF00">
+			<table border="0" width="175" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font face="Tahoma" size="2">Eventos de sistema 
+					(alarmas-sensores)</font></td>
+				</tr>
+			</table>
+			</td>
+            <td width="16" bgcolor="#FFFF00"><font size="2" face="Tahoma">OK</font></td>
+            <td bgcolor="#FFFF00"><font size="2" face="Tahoma">NO.OK</font></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Entrada de turbo</font></td>
+            <td width="16" align="center">
+			<input type="checkbox" name="C64" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C65" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Presión de Boost</font></td>
+            <td width="16" align="center">
+			<input type="checkbox" name="C66" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C67" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Presión Atmosférica</font></td>
+            <td width="16" align="center">
+			<input type="checkbox" name="C68" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C69" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Alarma de inyectores</font></td>
+            <td width="16" align="center">
+			<input type="checkbox" name="C70" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C71" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Alarma de 5V&nbsp; 8V</font></td>
+            <td width="16" align="center">
+			<input type="checkbox" name="C72" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C73" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Señal del Acelerador</font></td>
+            <td width="16" align="center">
+			<input type="checkbox" name="C74" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C75" value="ON"></td>
+          </tr>
+        </tbody>
+      </table></td>
+      <td><table width="100%" border="0" cellspacing="3">
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>
+			<table border="0" width="42" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><b><font face="Tahoma">---&gt;</font></b></td>
+				</tr>
+			</table>
+			</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+      </table></td>
+      <td width="821"><table width="100%" border="1">
+          <tr>
+            <td>
+			<font size="2">En caso de encontrar una alarma realice el 
+			troubleshooting</font> <b>RENR 1331</b></td>
+          </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td width="213">&nbsp;</td>
+      <td width="44">&nbsp;</td>
+      <td width="254">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td width="821">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+		</td>
+    </tr>
+    <tr>
+      <td bgcolor="#00FF00"><p align="center"><b>En caso de que el equipo tenga sistema de ahorro de combustible (BLUTIP) revise que no tenga fugas externas y/o conexiones equivocadas, verifique tenga en funcionamiento el dispositivo , recuerde que este sistema puede producir obstrucciones generando un derrateo en la maquina</b><br>
+          
+</td>
+    </tr>
+    <tr>
+      <td>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td width="213">
+		<table border="0" width="210" cellspacing="0" cellpadding="0">
+			<tr>
+				<td><table width="100%" border="1">
+        <tbody>
+          <tr>
+            <td bgcolor="#FFEAF4"><font face="Tahoma" size="2">Verifique cualquier alarma activa o Almacenada 
+		confirme cuantas horas tiene de haber ocurrido, compárela con el horometro del Vims. Recuerde que si encuentra 
+		alarma activa o almacenada recientemente  este se debe corregir antes de continuar al al siguiente paso
+</font></td>
+          </tr>
+          
+        </tbody>
+      </table>
+      			</td>
+			</tr>
+		</table>
+		</td>
+      <td width="44"><table width="100%" border="0" cellspacing="3">
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>
+			<table border="0" width="42" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><b><font face="Tahoma">---&gt;</font></b></td>
+				</tr>
+			</table>
+			</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+      </table></td>
+      <td width="254"><table width="67%" border="1" cellpadding="5">
+        <tbody>
+          <tr>
+            <td width="175" bgcolor="#FFFF00">
+			<table border="0" width="175" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font face="Tahoma" size="2">Eventos de sistema (alarmas-sensores)</font></td>
+				</tr>
+			</table>
+			</td>
+            <td width="20" bgcolor="#FFFF00"><font size="2" face="Tahoma">OK</font></td>
+            <td bgcolor="#FFFF00"><font size="2" face="Tahoma">NO.OK</font></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Temp Convertidor</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C102" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C103" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Temp Frenos</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C104" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C105" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Alarmas velocidad del fan</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C106" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C107" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Filtros Taponado</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C108" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C109" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Motor Bevelocid Activo</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C110" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C111" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Filtro de comb. taponado</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C112" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C113" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Alarma temperatura Escape</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C114" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C115" value="ON"></td>
+          </tr>
+        </tbody>
+      </table></td>
+      <td><table width="100%" border="0" cellspacing="3">
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>
+			<table border="0" width="42" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><b><font face="Tahoma">---&gt;</font></b></td>
+				</tr>
+			</table>
+			</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+      </table></td>
+      <td width="821"><table width="100%" border="1">
+          <tr>
+            <td bgcolor="#FFFF00">
+			<p align="center"><b>Anote los valores encontrados</b></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T53" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T54" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T55" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T56" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T57" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T58" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T59" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td width="213">&nbsp;</td>
+      <td width="44">&nbsp;</td>
+      <td width="254">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td width="821">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+		</td>
+    </tr>
+    <tr>
+      <td bgcolor="#00FF00">
+		<p align="center"><b>4. Encienda maquina y proceda a calarlo para 
+		revisar los siguientes parámetros </b></td>
+    </tr>
+	<tr>
+      <td>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td width="213">
+		<table border="0" width="210" cellspacing="0" cellpadding="0">
+			<tr>
+				<td><table width="100%" border="1">
+        <tbody>
+          <tr>
+            <td bgcolor="#FFEAF4"><font face="Tahoma" size="2">Cale el motor 
+			para revisar que los siguientes parámetros estén dentro de lo 
+			especificado, cualquiera de estos parámetros pueden producir una 
+			baja potencia</font></td>
+          </tr>
+        </tbody>
+      </table>
+      			</td>
+			</tr>
+		</table>
+		</td>
+      <td width="44"><table width="100%" border="0" cellspacing="3">
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>
+			<table border="0" width="42" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><b><font face="Tahoma">---&gt;</font></b></td>
+				</tr>
+			</table>
+			</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+      </table></td>
+      <td width="254"><table width="67%" border="1" cellpadding="5">
+        <tbody>
+          <tr>
+            <td width="175" bgcolor="#FFFF00">
+			<table border="0" width="175" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font face="Tahoma" size="2">Parametros de Máquina</font></td>
+				</tr>
+			</table>
+			</td>
+            <td width="20" bgcolor="#FFFF00"><font size="2" face="Tahoma">OK</font></td>
+            <td bgcolor="#FFFF00"><font size="2" face="Tahoma">NO.OK</font></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Tempertura de 
+			Refrigerante</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C137" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C138" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Delta de escape (&lt; 40</font><font face="Tahoma" size="1">°
+			</font><font face="Tahoma" size="2">c)</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C139" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C140" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Rpm calado ( &gt;= 1490)</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C141" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C142" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">presión de refuerzo en 
+			alta en vacio ( &gt;= 3 psi )</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C143" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C144" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Presión de refuerzo 
+			calado</font><p><font face="Tahoma" size="2">(entre 20 y 25 psi )</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C145" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C146" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Revise ruido en los 
+			ductos de admision y escape</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C147" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C148" value="ON"></td>
+          </tr>
+          <tr>
+            <td width="175"><font face="Tahoma" size="2">Verifique el 
+			funcionamiento del sensor de desacelerador</font></td>
+            <td width="20" align="center">
+			<input type="checkbox" name="C149" value="ON"></td>
+            <td align="center"><input type="checkbox" name="C150" value="ON"></td>
+          </tr>
+        </tbody>
+      </table></td>
+      <td><table width="100%" border="0" cellspacing="3">
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>
+			<table border="0" width="42" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><b><font face="Tahoma">---&gt;</font></b></td>
+				</tr>
+			</table>
+			</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+      </table></td>
+      <td width="821"><table width="100%" border="1">
+          <tr>
+            <td bgcolor="#FFFF00">
+			<p align="center"><b>Anote los valores encontrados</b></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T60" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T61" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T62" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T63" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T64" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T65" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+          <tr>
+            <td>
+			<input type="text" name="T66" size="20" style="font-size: 14pt; font-weight: bold; border: 1px solid #008080; padding: 2px"></td>
+          </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td width="213">&nbsp;</td>
+      <td width="44">&nbsp;</td>
+      <td width="254">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td width="821">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+		</td>
+    </tr>
+    <tr>
+      <td bgcolor="#00FF00">
+		<p align="center"><b>5</b>. Si la presión de refuerzo es mayor de 20 psi siga 
+		con el paso ( ) en caso contrario revise el sistema de combustible y 
+		realice las siguientes pautas</td>
+    </tr>
+    <tr>
+      <td>
+		<table border="1" width="100%">
+			<tr>
+				<td width="68%" bgcolor="#FFFF00">
+				<p align="center"><b>Si la presión de combustible es menor a 60 psi 
+				realice las siguientes pautas</b></td>
+				<td width="25%" bgcolor="#FFFF00">
+				<p align="center"><b>IMÁGENES</b></td>
+				<td colspan="2" align="center" bgcolor="#FFFF00">BUEN ESTADO</td>
+			</tr>
+			<tr>
+				<td width="68%"><b>5.1</b> Revise el nivel del tanque de combustible, 
+				no solo en el indicador del Vims, rebiselo físicamente, el 
+				sensor puede estar registrando una medida errónea del nivel de 
+				combustible.</td>
+				<td width="25%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones1" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones1" value="no"> No</label></td>
+			</tr>
+			<tr>
+				<td width="68%"><b>5.2</b> Revise el funcionamiento del respiradero del 
+				tanque, un mal funcionamiento del respiradero, genera un vacio 
+				en el tanque de combustible, porque a medida que el combustible 
+				consumido no entra aire al tanque para equilibrar le presion 
+				interna del tanque, este vacio llega hasta el punto que la bomba 
+				de transferencia no es capaz de succionar el combustible y el 
+				equipo puede llegar hasta apagarse.</td>
+				<td width="25%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones2" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones2" value="no"> No</label></td>
+			</tr>
+			<tr>
+				<td width="68%" rowspan="2"><b>5.3</b> revise el el filtro primario de 
+				combustible, verifique por presencia de agua y de material 
+				particulado que nos puede mostrar indicios de que e tanque de 
+				combustible tenga sucio, oxido o cualquier otro tipo de material 
+				que halla ingresado al tanque, luego proceda a cambiar los 
+				filtros secundarios de combustible y verifique que la manguera 
+				que sale de la carcasa de los filtros de combustible, este 
+				colocada en el puerto de combustible filtrado <b>(Filtered)</b>, 
+				la manguera en el puerto de combustible <b>Unfilter</b> envía 
+				combustible sin filtrar a los inyectores lo que causa daño 
+				prematuro a los inyectores de combustible.</td>
+				<td width="25%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones3" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones3" value="no"> No</label></td>
+			</tr>
+			<tr>
+				<td width="25%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones4" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones4" value="no"> No</label></td>
+			</tr>
+			<tr>
+				<td width="68%"><b>5.4</b> Revise el funcionamiento del bombin, un daño 
+				en los sellos del bombin no permite que los filtros secundarios 
+				se llenen completamente y permite la entrada de aire al sistema.</td>
+				<td width="25%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones5" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones5" value="no"> No</label></td>
+			</tr>
+			<tr>
+				<td width="68%"><b>5.5</b> Revise la válvula reguladora de presion del 
+				sistema, si la presión del sistema esta por debajo de 60 psi la 
+				valvula reguladora no esta trabajando correctamente, por el 
+				contrario una presión de 80 psi puede dar indicio de un mal 
+				armado en la valvula reguladora, recuerde que el sistema de 
+				combustible de los motores 3508 no es presurizado, la valvula 
+				reguladora del sistema controla la presión del sistema y asegura 
+				que tengamos combustible en las galerías para que el encendido 
+				del motor sea sencillo.</td>
+				<td width="25%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones6" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones6" value="no"> No</label></td>
+			</tr>
+			<tr>
+				<td width="68%"><b>5.6</b> Revise la salida del tanque de combustible, 
+				recuerde que cualquier material extraño dentro del tanque puede 
+				restringir el flujo de combustible y producir baja potencia, así 
+				como una linea obstruida en cualquier punto del sistema también 
+				conlleva a una baja potencia, sople las líneas con aire a 30 lbs 
+				de presion. Utilice los elementos de protección necesarios al 
+				realizar esta labor.</td>
+				<td width="25%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones7" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones7" value="no"> No</label></td>
+			</tr>
+			<tr>
+				<td width="68%"><b>5.7</b> Revise la bomba de trasferencia, la presion 
+				máxima de alivio del sistema de combustible es de 100 psi y la 
+				valvula de alivio del sistema está en la bomba de trasferencia, 
+				recuerde que la bomba de trasferencia por la parte inferior 
+				tiene un testigo que nos indica si el sello de labio del eje de 
+				la bomba está en mal estado, por esto se nota presencia de 
+				aceite o combustible cuando el sello esta en mal estado, también 
+				indica una posible trasferencia de combustible al aceite motor.</td>
+				<td width="25%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones8" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones8" value="no"> No</label></td>
+			</tr>
+		</table>
+		</td>
+    </tr>
+    <tr>
+      <td bgcolor="#00FF00">
+		<p align="center"><b><span style="background-color: #00FF00">6. Si la 
+		presion de combustible es mayor de 60 psi paro la de refuerzo es 
+		inferior a 20 psi realice las siguientes pautas en el sistema de 
+		admision y escape</span></b></td>
+    </tr>
+    <tr>
+      <td>
+		<table border="1" width="100%">
+			<tr>
+				<td width="68%" align="center" bgcolor="#FFFF00"><b>Verifique que sistema de admisión y escape esta 
+				trabajando correctamente</b></td>
+				<td width="26%" align="center" bgcolor="#FFFF00"><b>IMAGENES</b></td>
+				<td colspan="2" align="center" bgcolor="#FFFF00">BUEN ESTADO</td>
+			</tr>
+			<tr>
+				<td width="68%"><b>6.1</b> Revise los filtros de aire, consulte con 
+				planeación las horas de servicio de los filtros primarios y 
+				secundarios de aire, en algunos casos los filtros secundarios 
+				pueden alcanzar mas de 1000 hrs de servicio cuando un equipo 
+				acumula mas de 4 Pm corto consecutivo.</td>
+				<td width="26%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones9" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones9" value="no"> No</label></td>
+			</tr>
+			<tr>
+				<td width="68%"><b>6.2</b> Revise los ciclónicos de aire, recuerde, en 
+				los Camiones 793D hay dos tipos de sistemas, los ciclónicos <b>
+				CAT</b> y el sistema <b>Optimax de <b>VM. </b>En cualquier caso un filtro 
+				demasiado pesado al momento de revisarlo es un indicio que el 
+				sistema CAT o el pre limpiador del Optimax no están trabajando 
+				correctamente.</td>
+				<td width="26%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones10" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones10" value="no"> No</label></td>
+			</tr>
+			<tr>
+				<td width="68%"><b>6.3</b> Revise el funcionamiento de la valvula 
+				antiretorno del Tanque de combustible  que esté colocada en el 
+				sentido correcto de flujo del retorno.</td>
+				<td width="26%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones11" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones11" value="no"> No</label></td>
+			</tr>
+			<tr>
+				<td width="68%"><b>6.5</b> Revise los ductos de admision y de escape por posibles fugas de gases de escape, tenga en cuenta que los gases de escape son los que se encargan de mover los turbos, 
+				los cuales incrementan el aire que entra a los cilindros. Revise 
+				los turbos, las carcasas por abrazaderas sueltas y verifique los álabes de las turbinas por daño.</td>
+				<td width="26%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones12" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones12" value="no"> No</label></td>
+			</tr>
+			<tr>
+				<td width="68%"><b>6.6</b> revise la carcasa externa del aftercooler por fugas por los sellos y revise la base del aftercooler donde se fija al bloque, en ese punto se presentan pequeñas fisuras por donde se escapa el aire limpio que debe entrar al motor.</td>
+				<td width="26%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones13" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones13" value="no"> No</label></td>
+			</tr>
+			<tr>
+				<td width="68%"><b>6.7</b> Revise la línea del sensor de salida de turbo, esta manguera esta recubierta con una malla 
+				metálica y una rotura en la manguera enviara una lectura errónea al sensor lo que causara que el ECM no envíe mas combustible cuando se requiera, revise el respiradero del sensor de presion 
+				Atmosférica, cuando se obstruye, éste envía una lectura errónea y tenga en cuenta que este sensor es el que toma el ECM para 
+				calibrar todos los sensores de presion en la maquina.</td>
+				<td width="26%" align="center">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Cerrej%C3%B3n.jpg/320px-Logo_Cerrej%C3%B3n.jpg" alt="Nature" class="responsive" width="600" height="400" style="width: 70%"></td>
+				<td width="3%" align="center"><label><input type="radio" name="opciones14" value="si"> Sí</label></td>
+				<td width="2%" align="center"><label><input type="radio" name="opciones14" value="no"> No</label></td>
+			</tr>
+			</table>
+		</td>
+    </tr>
+    <tr>
+      <td bgcolor="#00FF00">
+		<p align="center"><b>7 Realice la prueba de corte de inyectores según 
+		pautas del ET</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FFFF00"><span style="background-color: #FFFF00"><b>7.1</b> Realice 
+		la prueba de corte de inyectores según el instructivo CAT, recuerde que 
+		debe cumplir ciertos parametros para que las pruebas se puedan ejecutar 
+		correctamente, anote los valores en la tabla anexa y verifique si algún 
+		inyector esta fuera de especificaciones y proceda con el cambio, 
+		recuerde que se debe configurar el código E-trim a cada inyector 
+		cambiado o al intercambiar inyectores para realizar pruebas.</span></td>
+    </tr>
+    <tr>
+      <td bgcolor="#00FF00">
+		<p align="center"><b>8</b>. <b>En caso de realizar todas las pruebas anteriores 
+		revise otros sistemas de la maquina que puedan causar baja potencia</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FFFF00"><span style="background-color: #FFFF00"><b>8.1</b> Realice 
+		una evaluación del convertidor por posible deslizamiento interno, esto 
+		produce una sensación de baja potencia en el operador y alta temperatura 
+		de aceite en el tren de fuerza.</span></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FFFF00"><b>8.2</b> Verifique el sistema de freno. El equipo frenado 
+		cala la maquina presentando igual que el punto anterior una sensación de 
+		baja potencia en el operador y alta temperatura en el tren de fuerza.</td>
+    </tr>
+    <tr>
+      <td bgcolor="#FFFF00"><b>8.3</b> Revise la trasmision por deslizamiento de 
+		algún embrague, consulte con el operador si en algun cambio especifico presenta problema, otro indicio en el aumento 
+		de la temperatura del tren de fuerza, observe que un aumento de la 
+		temperatura del tren de potencia no da indicio que este presentando un 
+		problema en cualquiera de los puntos señalados.</td>
+    </tr>
+    <tr>
+      <td bgcolor="#FFFF00"><b>8.4</b> Revise el correcto funcionamiento del 
+		sistema <b>HARC</b>, este es el modo como el ECM protege al motor de una 
+		sobrevelocidad y lo hace aplicando el sistema frenos del equipo lo que 
+		genera una carga al motor y disminuye las RPM del motor en 
+		aproximadamente 100 a 150 rpm, tenga presente que un problema en este 
+		sistema incrementa la temperatura del aceite hidraulico.</td>
+    </tr>
+    <tr>
+      <td>COMENTARIOS</td>
+    </tr>
+    <tr>
+      <td>
+	<textarea id="subject" name="subject" placeholder=".." style="border:1px solid #008080; padding:2px; height:100px; width:100%; border-radius:4px; resize:vertical; font-size:14pt; font-weight:bold" rows="1" cols="20"></textarea></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<p> 
+<font face="Verdana"> 
+<input type='button' onclick='window.print();' value='Guardar documento pdf' style="font-size: 14pt; float: left" /></font></p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+	
+</body>
+</html>
